@@ -1,6 +1,7 @@
 ---
 title: "Untitled"
 format: docx
+date: now
 ---
 
 ## Quarto
